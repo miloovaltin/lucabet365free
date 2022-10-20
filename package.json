@@ -1,0 +1,16 @@
+{
+"name": "lucabet365free",
+"theme": "lucabet365 free",
+"version": "3.2.9",
+"description": "lucabet365 free ทางเข้าหลักเว็บไซต์แทงบอลเว็บตรง คนเล่นเยอะ แจกโบนัสเครดิตฟรี",
+"keywords": [
+"lucabet365 free",
+"lucabet365 free เครดิตฟรี",
+"lucabet365 free ทางเข้า"
+],
+"repository": "https://github.com/miloovaltin/lucabet365free",
+"license": "MIT",
+"engines": {
+"atom": ">=1.0.0 <2.0.0"
+}
+}
